@@ -33,6 +33,9 @@
    - bronze.erp_px_cat_g1v2
    - bronze.erp_loc_a101
 
+Usage Example:
+	exec bronze.load_bronze;
+
  Notes         :
  - This procedure implements a Full Load strategy (TRUNCATE + BULK INSERT).
  - Bronze tables store raw source data without transformations.
