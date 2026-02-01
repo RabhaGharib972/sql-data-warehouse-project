@@ -16,7 +16,7 @@ The final Gold layer is analytics-ready and can be consumed by BI tools such as
 
 
 
-(images/data_architecture.png)
+![Data Warehouse Architecture](images/data_architecture.png)
 
 
 
